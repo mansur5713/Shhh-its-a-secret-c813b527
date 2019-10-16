@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+    font-size: 50px;
+}
+
+li {
+	color: red;
+	font-size: 2em;
+}
+
+html {
+	background-color: white;
+}
+input {
+	display: block;
+	width: 250px;
+}
+
+body{
+	font-size: 25px;
+
+}
